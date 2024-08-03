@@ -1,3 +1,4 @@
+//Problrm-> Find 3 numbers(a,b,c) such that a+b=c
 #include <iostream>
 using namespace std;
 
