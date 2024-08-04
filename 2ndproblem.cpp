@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
     int arr[10];
-    cout<<"Enter conjuctive Numbers"<<endl;
+    cout<<"Enter consecutive Numbers"<<endl;
     for(int i=0;i<10;i++){
         cin>>arr[i];
     }
