@@ -1,0 +1,6 @@
+P-> 1.
+// Aim = We have given an array of n numbers and now we have to find the elements which follows a+b=c;
+Algo->
+1.initialize variables and array.
+2.take a array as input.
+3.Find Triplets by 3 nested loops.
