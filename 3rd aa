@@ -1,0 +1,6 @@
+3. Aim = We are given that a ball is falling on the ground with velocity v and at each bounce its velocity decreases by half. Then find the number of bounces.
+ Algo-> 
+1.initialize dropping velocity (v),Bounce count (count)
+2.Input the dropping velocity 
+3.Run a while loop untill velocity is 0.
+4.Return count.
