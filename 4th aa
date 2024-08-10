@@ -1,0 +1,6 @@
+ Aim->   find the a ratio to power n but the iteration should be less than n;
+Algo-> 
+1. initialize base(a) , power(n) and product(p)
+2.if n=0 the return 1 because anything ratio to the power zero is 1
+3.Run a for loop for i=1 to n
+4.product=pruduct*a
