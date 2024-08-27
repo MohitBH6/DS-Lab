@@ -10,7 +10,7 @@ int main()
     long long size = 50LL;
     long long N = 10000000LL;
 
-    cout << "Enter the number you are looking for: ";
+    cout << "Enter the number : ";
     cin >> number;
 
     while (size != 5000000000000LL)
