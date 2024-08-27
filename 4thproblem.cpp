@@ -1,4 +1,4 @@
-//Problem->Fint a to the power n in n-1 iteration
+//Problem->Find a to the power n in n-1 iteration
 #include<iostream>
 using namespace std;
 int power(int a,int n){
