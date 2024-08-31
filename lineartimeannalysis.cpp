@@ -15,7 +15,7 @@ int main()
 
     while (size != 5000000000000LL)
     {
-        // time at initialization
+        //time at initialization
         auto start = std::chrono::high_resolution_clock::now();
 
         long long arr[size];
